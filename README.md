@@ -9,8 +9,10 @@
 
 ## 综述文章
 
+[双目立体匹配：基础，最新发展以及现存问题](1.md)
 
-## 参考文件
+
+## 参考文献
 
 [1] Liu, Chuang-Wei, et al. "Stereo matching: fundamentals, state-of-the-art, and existing challenges." Autonomous Driving Perception: Fundamentals and Applications. Singapore: Springer Nature Singapore, 2023. 63-100.
 
